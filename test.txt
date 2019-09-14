@@ -3,3 +3,6 @@ This is test file
 
 test2 (branch renshu)
 test3 (branch renshu)
+
+test4 (GPG Keyを設定したのでVerifiedがつくかどうかテスト)
+ttttttttttttttest
